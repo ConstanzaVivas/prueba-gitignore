@@ -1,1 +1,1 @@
-# prueba-gitignore
+# Config-loca.txt
